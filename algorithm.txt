@@ -1,1 +1,21 @@
-THINK before you code...
+Create MarioKartGame Class
+    Initialize Joel object with new mario kart player
+    Initialize Anneliese object with new mario kart player
+    Display Joels Stats
+    Display Anneliese stats
+    Increase Joels Speed
+    Increase Anneliese's speed
+    Display Joels Stats
+    Display Anneliese stats
+Create MarioKart Player Class
+    Initialize Character Name
+    Initialize speed variable
+    initialize Player Name
+    Create Default Constructor MarioKartPlayer that uses Character name, speed variable, and player name.
+
+    Create method to boost speed
+        Add 15 to speed variable
+
+    Create method to display info
+        Print line that has character name, speed, and Player Name
+
